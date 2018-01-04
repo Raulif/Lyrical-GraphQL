@@ -1,2 +1,3 @@
 # Lyrical-GraphQL
-Starter project from a GraphQL course on Udemy.com
+Pet project to learn how to integrate GraphQL and React.
+Project based on a Udemy course.
